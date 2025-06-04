@@ -13,8 +13,8 @@ This project is a React-based user interface component designed to visually cons
 ## Preview
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/90cee260-2cf8-4940-b8a5-cada7843547e" width="500" alt="Screenshot 1"/>
-  <img src="https://github.com/user-attachments/assets/d48a7ed5-b899-4794-854b-61abd7844209" width="500" alt="Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/90cee260-2cf8-4940-b8a5-cada7843547e" width="400" alt="Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/d48a7ed5-b899-4794-854b-61abd7844209" width="400" alt="Screenshot 2"/>
 </div>
 
 
