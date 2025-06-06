@@ -1,6 +1,6 @@
 # Flow_Nodes
 
-This project is a React-based user interface component designed to visually construct and manage conversational flows using a node-based system. Built with React, TypeScript, and React Flow, the NodePalette component provides a structured sidebar (palette) where users can add various types of nodes to their flow diagram and export the resulting configuration.
+This project is a user interface component designed to visually construct and manage conversational flows using a node-based system. Built with React, TypeScript, and React Flow, the NodePalette component provides a structured sidebar (palette) where users can add various types of nodes to their flow diagram and export the resulting configuration.
 
 ## Features
 
